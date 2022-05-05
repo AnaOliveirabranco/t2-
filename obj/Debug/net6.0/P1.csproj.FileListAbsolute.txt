@@ -1,0 +1,15 @@
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\bin\Debug\net6.0\P1.exe
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\bin\Debug\net6.0\P1.deps.json
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\bin\Debug\net6.0\P1.runtimeconfig.json
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\bin\Debug\net6.0\P1.dll
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\bin\Debug\net6.0\P1.pdb
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.csproj.AssemblyReference.cache
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.AssemblyInfoInputs.cache
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.AssemblyInfo.cs
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.csproj.CoreCompileInputs.cache
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.dll
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\refint\P1.dll
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.pdb
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\P1.genruntimeconfig.cache
+C:\CursoVS04_22\Csharp\Pj1\Pj1\P1\obj\Debug\net6.0\ref\P1.dll
